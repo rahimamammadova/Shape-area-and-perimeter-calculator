@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\bin\Debug\net6.0\Shape Perimeter and Area Calculator.exe
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\bin\Debug\net6.0\Shape Perimeter and Area Calculator.deps.json
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\bin\Debug\net6.0\Shape Perimeter and Area Calculator.runtimeconfig.json
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\bin\Debug\net6.0\Shape Perimeter and Area Calculator.dll
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\bin\Debug\net6.0\Shape Perimeter and Area Calculator.pdb
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.dll
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\refint\Shape Perimeter and Area Calculator.dll
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.pdb
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\Shape Perimeter and Area Calculator.genruntimeconfig.cache
+C:\Users\user\Desktop\C# projects code academy\Shape Perimeter and Area Calculator\Shape Perimeter and Area Calculator\obj\Debug\net6.0\ref\Shape Perimeter and Area Calculator.dll
